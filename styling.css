@@ -84,13 +84,13 @@ p {
 }
 
 sup {
-    color: hsl(204, 43%, 93%);
+    color: hsl(204, 45%, 95%);
     padding-left: 8px;
 }
 
 .second-part p {
     width: 280px;
-    color: hsl(204, 43%, 93%);
+    color: hsl(204, 45%, 95%);
     margin-top: -12px;
 }
 
@@ -113,7 +113,7 @@ button {
 .listing {
     background-color: hsla(179, 36%, 51%, 0.91);
     color: white;
-    font-size: 14px;
+    font-size: 12px;
     position: relative;
     bottom: 22px;
     height:200px;
@@ -124,16 +124,17 @@ button {
 }
 .listing>h3 {
     margin-top: -5px;
+    margin-bottom: 4px;
 }
 ul {
     display: inline;
-    padding-top: -19px;
+    margin-bottom: 5px;
 }
 li {
     list-style: none;
     padding-left: 20px;
-    padding-bottom: 3px;
-    color: hsl(204, 43%, 93%)
+    padding-bottom: 5px;
+    color: hsl(204, 45%, 95%);
 }
 
 @media (max-width: 1440px) {}
