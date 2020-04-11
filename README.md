@@ -2,13 +2,9 @@
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## Language Structure 👋
+- HTML
+- CSS3
 
 ## The challenge
 
@@ -16,8 +12,6 @@ Your users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - See a hover state on desktop for the Sign Up call-to-action
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 ## Where to find everything
 
@@ -50,19 +44,5 @@ As mentioned above, there are a number of ways to host your project for free. We
 1. [Sign up to ZEIT Now](http://bit.ly/fem-zeit-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [ZEIT Now for GitHub](https://zeit.co/docs/v2/git-integrations/zeit-now-for-github) integration.
 2. Connect your project to ZEIT Now from the ["Create a new project" page](https://zeit.co/new), using the "New Project From GitHub" button and selecting the project you want to deploy.
 3. Once connected, every time you `git push`, ZEIT Now will create a new [deployment](https://zeit.co/docs/v2/platform/deployments) and the deployment URL will be shown on your [ZEIT Dashboard](https://zeit.co/dashboard). You will also receive an email for each deployment with the URL.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Submit it on the platform so that other users will see your solution on the site. Other users will be able to give you feedback, which could help improve your code for the next project.
-2. Share your repository and live URL in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
-3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-
-## Giving feedback
-
-Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
